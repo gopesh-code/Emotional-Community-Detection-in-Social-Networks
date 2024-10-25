@@ -113,11 +113,6 @@ By integrating **sentiment analysis** with **community detection**, this project
 
 ---
 
-## Sample Code
-You can find a sample of the project code [here](./path-to-sample-code).
-
----
-
 ## References
 - Girvan, M., & Newman, M. E. J. (2002). Community structure in social and biological networks.
 - Hutto, C. J., & Gilbert, E. (2014). VADER: A parsimonious rule-based model for sentiment analysis of social media text.
